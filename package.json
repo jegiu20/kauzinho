@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "description": "base api's",
   "engines": {
-    "node": "12.18.x"
+    "node": "14.0.x"
   },
   "main": "index.js",
   "scripts": {
