@@ -1,0 +1,15 @@
+{
+"wait": '⌛ Aguarde... ⌛♡',
+"success": '✔️ Sucesso! ✔️',
+"error": {
+"stick": '❌ Falha, erro ao converter imagem/git/video em figurinha ❌',
+"Iv": '❌ Link inválido ❌'
+},
+"only": {
+"group": '❌ Este comando só pode ser usado em grupos! ❌',
+"ownerG": '❌ Este comando só pode ser usado pelo dono do grupo! ❌',
+"ownerB": '❌ Este comando só pode ser usado pelo dono do bot! ❌',
+"admin": '❌ Este comando só pode ser usado por administradores de grupo! ❌',
+"Badmin": '❌ Este comando só pode ser usado quando o bot é um administrador! ❌'
+}
+}
