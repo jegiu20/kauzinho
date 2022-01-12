@@ -1,29 +1,21 @@
 {
-  "name": "ALEATORY-BOT",
-  "version": "7.0.0",
-  "description": "Inteligência artificial feita por Aleatory!",
+  "name
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1",
+    "yts": "^2.0.0"
+  }
+
+{
+  "name": "kauan",
+  "version": "1.0.0",
+  "description": "base api's",
+  "engines": {
+    "node": "12.18.x"
+  },
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "devDependencies": {},
   "scripts": {
-    "start": "node index",
-    "test": "echo \"Erro ao iniciar\" && exit 1"
+    "start": "node main.js"
   },
-  "keywords": [
-    "k"
-  ],
-  "author": "Aleatory",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Josival321/aleatory.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Josival321/aleatory/issues"
-  },
-  "homepage": "https://github.com/Josival321/aleatory/readme",
-  "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@kagchi/kag-api": "^2.0.0",
@@ -69,5 +61,15 @@
     "yt-search": "^2.10.1",
     "ytdl-core": "^4.9.1",
     "yts": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kauanjardini/kauanjardini"
+  },
+  "keywords": [
+    "node",
+    "kauanzin",
+    "express"
+  ]
 }
