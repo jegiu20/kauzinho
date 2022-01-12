@@ -18,15 +18,13 @@
   },
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
-    "@kagchi/kag-api": "^2.0.0",
-    "async": "^3.2.1",
-    "tiktok-scraper": "^1.4.12", 
+    
 
     "axios": "^0.21.4",
     "brainly-scraper": "^1.0.3",
     "cfonts": "^2.9.3",
     "cheerio": "^1.0.0-rc.10",
-    "crypto": "^1.0.1",
+    
     "emoji-api": "^2.0.1",
     "emoji-regex": "^10.0.0",
     "emoji-unicode": "^2.0.1",
