@@ -2,7 +2,7 @@ const { WAConnection, MessageTypeProto, MessageType, Presence, Mimetype, GroupSe
 const { color, bgcolor } = require('./lib/color')
 const { help } = require('./src/help')
 const { wait, webp2gifFile, simih, convertSticker, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start,  info, success, close } = require('./lib/functions')
-const { Sticker,  createSticker } = require('wa-sticker-formatter')
+//cker,  createSticker } = require('wa-sticker-formatter')
 
 const { fetchJson, fetchText, getBase64, createExif } = require('./lib/fetcher')
 const { recognize } = require('./lib/ocr')
